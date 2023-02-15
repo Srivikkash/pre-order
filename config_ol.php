@@ -1,8 +1,8 @@
 <?php      
 //connectiong server.
     $server_name='localhost';
-    $username='admin';
-    $password='bsccsbhc';
+    $username='root';
+    $password='';
     $database_name='orderlist';
     $conn=mysqli_connect($server_name,$username,$password,$database_name);
 
